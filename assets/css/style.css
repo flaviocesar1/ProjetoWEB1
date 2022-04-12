@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+}
+
+form{
+    border: 1px solid gray;
+    padding: .5em;
+    margin-bottom: .5em;
+}
+
+a.btn {
+    
+    border: 1px solid gray;
+    background-color: hsl(0, 0%, 70%);
+    border-radius: 2px;
+    padding: 0.1em;
+    text-decoration: none;
+    color: white;
+    box-shadow: 1px 1px hsl(0, 0, 70%);
+
+}
