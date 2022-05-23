@@ -19,7 +19,7 @@ if (is_logged()) {
 <body>    
     <h1><u>Welcome to Game Characters</u></h1>
     <a class="btn" href="users/register.php">Registrar</a>
-    <a class="btn" href="auth/login.php">Autenticar</a>
+    <a class="btn" href="auth/login.php">Autenticaçãp</a>
 
 </body>
 </html>
